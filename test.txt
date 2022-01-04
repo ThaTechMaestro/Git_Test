@@ -9,3 +9,4 @@ Re trying again!
 Retrying a New Test again
 A new line has been added
 Display the correct author
+Author is verified
